@@ -1,4 +1,4 @@
-package algorithm.recursion;
+package algorithm.recursion.backtracking;
 
 import java.util.*;
 
